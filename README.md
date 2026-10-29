@@ -1,5 +1,11 @@
 # Qiskit Basics — A Deep-Dive Reference Series
 
+## 🚀 Live Interactive Mock Exam & Study Hub
+
+**[Open the Qiskit v2.x Certification Mock Exam & Study Hub](https://pushkar0997.github.io/Qiskit_cert_prep/)**
+
+Prepare for the C1000-179 exam with 100 length-balanced questions, timed 10-, 20-, 40-, or 68-question exams, and multi-section practice filters. The hub also includes 32 flashcards, interactive Pauli, Estimator Precision, and Q-Sphere labs, plus a Qiskit Advocate exam directory.
+
 A companion reference to the `qiskit_basics_deep_dive.ipynb` notebook, written for
 certification prep on **Qiskit v2.x**. Where the notebook is optimized for
 "run this and see," these files are optimized for "read this and understand
