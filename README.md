@@ -4,7 +4,12 @@
 
 **[Open the Qiskit v2.x Certification Mock Exam & Study Hub](https://pushkar0997.github.io/Qiskit_cert_prep/)**
 
-Prepare for the C1000-179 exam with 100 length-balanced questions, timed 10-, 20-, 40-, or 68-question exams, and multi-section practice filters. The hub also includes 32 flashcards, interactive Pauli, Estimator Precision, and Q-Sphere labs, plus a Qiskit Advocate exam directory.
+The hub includes:
+
+- **300 length-balanced practice questions** for C1000-179 and C9008400, with a dedicated filter for the 200 new deep-dive questions (Q101–Q300).
+- **92 spaced-repetition active-recall flashcards**, including a dedicated filter for the 60 new deep-dive cards (fc33–fc92).
+- A complete **18-module Qiskit v2.x Master Reference Cheat Sheet**.
+- A **Custom Exam Builder** for timed 10-, 20-, 40-, or 68-question exams, multi-section checkboxes, and shuffled balanced answer options.
 
 A companion reference to the `qiskit_basics_deep_dive.ipynb` notebook, written for
 certification prep on **Qiskit v2.x**. Where the notebook is optimized for
